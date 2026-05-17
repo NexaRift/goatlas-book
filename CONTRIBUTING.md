@@ -4,8 +4,6 @@ Thank you for your interest in contributing to GoAtlas! This is a
 community-driven book and every contribution matters — from fixing a
 typo to writing an entire section.
 
----
-
 ## Table of Contents
 
 - [Ways to Contribute](#ways-to-contribute)
@@ -13,8 +11,6 @@ typo to writing an entire section.
 - [Submitting a Pull Request](#submitting-a-pull-request)
 - [Writing Standards](#writing-standards)
 - [Code of Conduct](#code-of-conduct)
-
----
 
 ## Ways to Contribute
 
@@ -27,8 +23,6 @@ you can help:
 - **Suggest new topics** — open an Issue with your suggestion
 - **Add or improve code examples** — practical examples help a lot
 - **Review open Pull Requests** — giving feedback is also contributing
-
----
 
 ## Reporting Issues
 
@@ -43,8 +37,6 @@ open an [Issue](../../issues) and follow these guidelines:
 
 > ⚠️ Please search existing issues before opening a new one to avoid
 > duplicates.
-
----
 
 ## Submitting a Pull Request
 
@@ -72,8 +64,6 @@ If you want to fix or improve something directly, follow these steps:
 
 > 💡 For large changes like new sections or chapters, please open an
 > Issue first to discuss it before writing everything.
-
----
 
 ## Writing Standards
 
@@ -124,8 +114,6 @@ Examples:
 - improve: rewrite goroutines explanation for clarity
 - add: new section about defer keyword
 
----
-
 ## Code of Conduct
 
 GoAtlas is an inclusive and welcoming project. We expect all
@@ -138,8 +126,6 @@ contributors to:
 
 Disrespectful behavior will not be tolerated and may result in being
 blocked from the project.
-
----
 
 If you have any questions, feel free to open an
 [Issue](../../issues) or start a
