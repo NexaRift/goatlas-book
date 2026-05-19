@@ -41,6 +41,8 @@ necessários para um aprendizado adequado.
 Em termos de escopo educacional, a obra pretende conduzir o estudante desde os conceitos mais básicos da linguagem até a utilização de determinadas 
 bibliotecas padrão da plataforma, deliberadamente não abordando ferramentas ou bibliotecas externas ao ecossistema nativo do Go.
 
+Adicionalmente, a obra foi desenvolvida especificamente em português para preencher uma lacuna de materiais técnicos de alta qualidade voltados à comunidade lusófona.
+
 ## Como o livro está estruturado?
 
 O livro digital GoAtlas está estruturado em capítulos progressivos, estabelecendo uma metodologia de aprendizado em que cada seção é construída de 
