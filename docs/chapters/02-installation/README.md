@@ -41,6 +41,19 @@ Os procedimentos para a configuração do ambiente seguem a ordem metodológica 
     ```
 4. **Validação do Ambiente**: A confirmação do sucesso da instalação é realizada executando o utilitário de versão no terminal:
     ```bash
-    $ go version
+    go version
+    ```
+    O ambiente estará pronto para uso quando o terminal exibir corretamente a versão instalada.
+
+## MacOS
+
+O procedimento de instalação no sistema operacional da Apple é automatizado por meio de um pacote oficial, reduzindo a necessidade de configurações manuais complexas. Os passos para a integração da linguagem ao sistema constam a seguir.
+
+1. **Execução do Assistente**: O arquivo de pacote com extensão `.pkg` baixado deve ser executado. O assistente gráfico de instalação guiará todo o procedimento. Por padrão, os arquivos da linguagem são implantados no diretório `/usr/local/go`.
+2. **Atualização Automática do PATH**: próprio instalador do macOS é projetado para realizar a inclusão do diretório `/usr/local/go/bin` à variável de ambiente PATH. Para garantir que o sistema operacional recarregue essa modificação, torna-se necessário reiniciar quaisquer sessões ou janelas ativas do Terminal. 
+3. **Abertura do Terminal**: Para realizar o teste de integridade do ambiente, deve-se abrir o aplicativo Terminal nativo do macOS (localizado na pasta de Utilitários).
+4. **Verificação da Versão**: Na linha de comando do Terminal, executa-se a instrução de checagem. O ambiente estará configurado corretamente quando o terminal exibir as informações da versão do Go recém-instalada. Após reabrir a janela do Terminal, a seguinte instrução deve ser digitada para confirmar o sucesso da operação:
+    ```zsh
+    go version
     ```
     O ambiente estará pronto para uso quando o terminal exibir corretamente a versão instalada.
