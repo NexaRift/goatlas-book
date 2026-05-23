@@ -28,3 +28,8 @@ A obra GoAtlas foi projetada especificamente para desenvolvedores iniciantes na 
 Em termos de escopo educacional, o objetivo é conduzir o estudante desde os conceitos fundamentais da linguagem até a utilização prática de componentes da biblioteca padrão (_standard library_). Deliberadamente, não serão abordadas ferramentas, frameworks ou bibliotecas externas ao ecossistema nativo do Go, garantindo o foco no aprendizado da essência da linguagem.
 
 Adicionalmente, este trabalho foi desenvolvido na língua portuguesa com o propósito de ampliar a oferta de materiais técnicos de alta qualidade voltados à comunidade lusófona, facilitando o acesso ao conhecimento especializado de forma direta e clara.
+
+## Referências
+
+* [Quote from Rob Pike](https://go.dev/solutions/google/) – Relato de Rob Pike breve sobre a história de Go
+* [Characteristics and philosophy](https://go.dev/doc/) – Documentação Oficial do projeto Go com as características e filosofia. 
