@@ -17,7 +17,7 @@ O processo de instalação no sistema operacional Windows é simplificado por me
     ```cmd
     go version
     ```
-    A instalação terá sido concluída com sucesso se o terminal retornar o número correspondente à versão do Go que foi instalada.
+    A instalação terá sido concluída com sucesso se o terminal retornar o número correspondente à versão do Go que foi instalada. A exibição desses dados confirma a integração do Prompt de Comando do Windows com o ambiente da linguagem.
 
 ## Linux
 
@@ -43,7 +43,7 @@ Os procedimentos para a configuração do ambiente seguem a ordem metodológica 
     ```bash
     go version
     ```
-    O ambiente estará pronto para uso quando o terminal exibir corretamente a versão instalada.
+    O ambiente estará pronto para uso quando o terminal exibir corretamente a versão instalada. Este retorno valida a persistência das variáveis de ambiente na distribuição utilizada.
 
 ## MacOS
 
@@ -56,4 +56,4 @@ O procedimento de instalação no sistema operacional da Apple é automatizado p
     ```bash
     go version
     ```
-    O ambiente estará pronto para uso quando o terminal exibir corretamente a versão instalada.
+    O ambiente estará pronto para uso quando o terminal exibir corretamente a versão instalada. O êxito da instrução atesta a vinculação correta do pacote oficial com o Terminal do sistema.
