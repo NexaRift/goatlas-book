@@ -57,3 +57,7 @@ O procedimento de instalação no sistema operacional da Apple é automatizado p
     go version
     ```
     O ambiente estará pronto para uso quando o terminal exibir corretamente a versão instalada. O êxito da instrução atesta a vinculação correta do pacote oficial com o Terminal do sistema.
+
+## Referências
+
+* [Download and install](https://go.dev/doc/install) – Documentação oficial de Go com tutorial de download e instalação.
