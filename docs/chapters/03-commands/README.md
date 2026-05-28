@@ -45,4 +45,4 @@ Para além do fluxo principal, a ferramenta disponibiliza comandos utilitários 
 
 ## Referências
 
-* [Comandos](https://pkg.go.dev/cmd/gol) – Documentação oficial de Go com os comandos. 
+* [Comandos](https://pkg.go.dev/cmd/go) – Documentação oficial de Go com os comandos. 
